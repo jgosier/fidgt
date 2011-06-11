@@ -1,0 +1,2 @@
+So, because of the current vector of our Fidg’t development (namely not really supporting additional versions of the java based visualizer), we’ve thrown the source code for the visualizer up on SourceForge. We’ve stripped a couple things it was using, namely our Flickr API Key, but the underlying structure of the interactions and visualizations is all there, nice and clean for you to play with. So have at it, or whatever. Go champ.
+

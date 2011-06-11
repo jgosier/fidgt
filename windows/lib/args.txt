@@ -1,0 +1,3 @@
+ -Xms64m -Xmx700m 
+fidgtvisual
+fidgtvisual.jar,core.jar,proxml.jar,opengl.jar,jogl.jar,opengl.jar,jogl.jar,sonia_v2_9.jar,JSynClasses.jar
